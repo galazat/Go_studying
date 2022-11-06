@@ -1,0 +1,17 @@
+[33mcommit 627181cd8d7ce243590828cbfead5b4f6bfa8954[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: azat <swazat@mail.ru>
+Date:   Sun Oct 30 19:44:08 2022 +0000
+
+    Add 2 work. Module name: Itoa
+
+[33mcommit 8251f7f8865596036813355827bf2f6cd386ee08[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: galazat <64635305+galazat@users.noreply.github.com>
+Date:   Sun Oct 30 00:35:37 2022 +0300
+
+    Create README.md
+
+[33mcommit 8f12c62090bd63da9da7950d5ff4212e6709f3b1[m
+Author: azat <swazat@mail.ru>
+Date:   Sat Oct 29 21:19:50 2022 +0000
+
+    Add 1 work. Module name: NTP_lib
